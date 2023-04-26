@@ -6,6 +6,8 @@ responses = {
     "hi": ["Hello!", "Hi there!", "Hey!"],
     "how are you": ["I'm doing well, thank you for asking.", "I'm great, thanks for asking!"],
     "what's your name": ["My name is Chatbot.", "You can call me Chatbot!"],
+    "what is your name": ["My name is Chatbot.", "You can call me Chatbot!"],
+    "who are you": ["My name is Chatbot.", "You can call me Chatbot!"],
     "bye": ["Goodbye!", "See you later!", "Bye!"]
 }
 
